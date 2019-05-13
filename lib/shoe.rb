@@ -10,8 +10,6 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  def condition
-    puts "new"
-  end
+
   
 end
